@@ -1,0 +1,109 @@
+		body
+    {
+      margin: 0px;
+      padding: 0px;
+      background-color: #DDDDDD;
+    }
+    body, td
+    {
+      font-family: Georgia, Verdana;
+      font-size: 12px;
+      color: #000000;
+      font-weight: Normal;
+      text-decoration: None;
+    }
+    a:link, a:visited
+    {
+      color: #660000;
+      text-decoration: None;
+      font-weight: Bold;
+    }
+    a:hover
+    {
+      text-decoration: Underline;
+    }
+    .pagetitle
+    {
+      font-size: 24px;
+      color: #660000;
+      font-weight: Normal;
+      width: 100%;
+      border-bottom: 1px solid #660000;
+      font-style: Italic;
+    }
+    H2
+    {
+      font-size: 24px;
+      color: #660000;
+      font-weight: Normal;
+      border-bottom: 1px solid #660000;
+      margin-top: 0px;
+      font-style: Italic;
+    }
+    .subtitle
+    {
+      font-size: 18px;
+      color: #660000;
+      font-weight: Normal;
+      width: 100%;
+      font-style: Italic;
+    }
+    .menutitle
+    {
+      font-size: 13px;
+      color: #000000;
+      font-weight: Bold;
+      border-bottom: 1px solid black;
+      width: 100%;
+      line-height: 18px;
+      font-style: Italic;
+    }
+    H3
+    {
+      font-size: 13px;
+      color: #000000;
+      font-weight: Bold;
+      border-bottom: 1px solid black;
+      line-height: 18px;
+      margin-top: 0px;
+      margin-bottom: 3px;
+      font-style: Italic;
+    }
+    .menuitem
+    {
+      font-size: 12px;
+      color: #660000;
+      font-weight: Bold;
+      line-height: 18px;
+    }
+    .navlink, .navlink:link
+    {
+      font-size: 12px;
+      color: #FFFFFF;
+      font-weight: Bold;
+      text-decoration: Underline;
+    }
+    .navlink:hover
+    {
+      text-decoration: Underline;
+      color: #FFFFFF;
+    }
+    .breadcrumb, .breadcrumb:link
+    {
+      font-size: 12px;
+      color: #FFFFFF;
+      font-weight: Bold;
+    }
+    .breadcrumb:hover
+    {
+      text-decoration: Underline;
+    }
+    .sidebartext
+    {
+      font-size: 12px;
+      color: #000000;
+    }
+    .imgcontent
+    {
+      border: 1px solid black;
+    }
