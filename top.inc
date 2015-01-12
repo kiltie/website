@@ -122,10 +122,17 @@
 			<tr>
                       <td>
                         <span class="sidebartext">
-                          <b>Kiltie Christmas Concert</b><br>
-                          Thursday December 4th, 2014 <br>
-                          Kirr Commons, UC<br>
-                          <b>5:30pm</b>
+                          <b>Mid Winter Concert</b><br>
+                          Monday February 23rd, 2015  <br>
+                          Rangos, UC<br>
+                          <b>7:30pm</b>
+                          <br>
+                          <br>
+                          <b>Spring Carnival Concert</b><br>
+                          Thursday April 16th, 2015 <br>
+                          Morewood Parking Lot <br>
+                          <b> 3:30pm </b>
+                          <br>
                         </span><p>
                       </td>
                     </tr>
