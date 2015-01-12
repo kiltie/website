@@ -122,10 +122,10 @@
 			<tr>
                       <td>
                         <span class="sidebartext">
-                          <b>Annual Winter Concert</b><br>
-                          March 3, 2014 <br>
-                          Rangos Ballroom, UC<br>
-                          <b>7:30pm</b>
+                          <b>Kiltie Christmas Concert</b><br>
+                          Thursday December 4th, 2014 <br>
+                          Kirr Commons, UC<br>
+                          <b>5:30pm</b>
                         </span><p>
                       </td>
                     </tr>
