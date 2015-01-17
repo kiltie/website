@@ -12,14 +12,14 @@ Paul Gerlach<br>
 </p>
 
 <p>
-<span class="subtitle">Prezidente</span><br>Carl Glazer<br>
-<i><script>emailer('cglazer','andrew.cmu.edu');</script></i>
+<span class="subtitle">President</span><br>Archit Amal Sahay </span>
+<i><script>emailer('asahay','andrew.cmu.edu');</script></i>
 </p>
 
 <p>
 <span class="subtitle">Vice President for Marching Band</span>
-<br>Veronica Ebert<br>
-<i><script>emailer('vebert','andrew.cmu.edu');</script></i>
+<br>Stephanie O'Neill<br>
+<i><script>emailer('soneil','andrew.cmu.edu');</script></i>
 </p>
 
 <p>
@@ -30,20 +30,20 @@ Gwen Jones<br>
 
 <p>
 <span class="subtitle">Vice President for Public Relations</span><br>
-Archit Amal Sahay<br>
-<i><script>emailer('asahay','andrew.cmu.edu');</script></i>
+Robert Maratos<br>
+<i><script>emailer('rmaratos','andrew.cmu.edu');</script></i>
 </p>
 
 <p>
 <span class="subtitle">Secretary</span><br>
-Grace Moraca<br>
-<i><script>emailer('gmoraca','andrew.cmu.edu');</script></i>
+Tess Hart<br>
+<i><script>emailer('Tess Hart','andrew.cmu.edu');</script></i>
 </p>
 
 <p>
 <span class="subtitle">Librarian</span><br>
-Erin Balke<br>
-<i><script>emailer('ebb','andrew.cmu.edu');</script></i>
+Stephanie Patterson<br>
+<i><script>emailer('spatter1','andrew.cmu.edu');</script></i>
 </p>
 
 <p>&nbsp;</p>
