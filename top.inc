@@ -122,17 +122,20 @@
 			<tr>
                       <td>
                         <span class="sidebartext">
-                          <b>Mid Winter Concert</b><br>
-                          Monday February 23rd, 2015  <br>
-                          Rangos, UC<br>
-                          <b>7:30pm</b>
+                          <b>Holiday Concert</b><br>
+                          Thursday December 3rd, 2015 <br>
+                          5:30pm<br>
+                          Kirr Commons, CUC<br>
                           <br>
+                          <b>Mid Winter Concert</b><br>
+                          Monday February 29th, 2016 <br>
+                          7:30pm <br>
+                          Rangos Ballroom, CUC<br>
                           <br>
                           <b>Spring Carnival Concert</b><br>
-                          Thursday April 16th, 2015 <br>
-                          Morewood Parking Lot <br>
-                          <b> 3:30pm </b>
-                          <br>
+                          Thursday April 14th, 2016 <br>
+                          3:30pm <br>
+                          CFA Lawn <br>
                         </span><p>
                       </td>
                     </tr>
