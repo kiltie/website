@@ -12,7 +12,8 @@ Paul Gerlach<br>
 </p>
 
 <p>
-<span class="subtitle">President</span><br>Archit Amal Sahay </span>
+<span class="subtitle">President</span><br>
+Archit Amal Sahay <br></span>
 <i><script>emailer('asahay','andrew.cmu.edu');</script></i>
 </p>
 
@@ -37,7 +38,7 @@ Robert Maratos<br>
 <p>
 <span class="subtitle">Secretary</span><br>
 Tess Hart<br>
-<i><script>emailer('Tess Hart','andrew.cmu.edu');</script></i>
+<i><script>emailer('tharty','andrew.cmu.edu');</script></i>
 </p>
 
 <p>
