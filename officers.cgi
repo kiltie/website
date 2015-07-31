@@ -51,6 +51,69 @@ Stephanie Patterson<br>
 
 <p><H2>Officer History</H2></p>
 
+<span class="subtitle">2014</span><br>
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+<td align="left" valign="top">
+      <a href="images/officers2014.jpg" target="_blank">
+<img class="imgcontent" src="images/officers2014thumb.jpg"></a>
+<td width="10">
+      <img src="images/spacer.gif" width="10" height="1">
+    </td>
+    <td valign="top" width="100%">
+      <b>President:</b> Sarah Benjamin<br>
+      <b>VP Marching:</b> Patrick White<br>
+      <b>VP Concert:</b> Bradley Jamison<br>
+      <b>VP Public Relations:</b> Daniel Becerra<br>
+      <b>Secretary:</b> Dylan Mori<br>
+      <b>Librarian:</b> Marrina Parra
+    </td>
+  </tr>
+</table><br><br>
+
+<span class="subtitle">2013</span><br>
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+<td align="left" valign="top">
+      <a href="images/officers2013.jpg" target="_blank">
+<img class="imgcontent" src="images/officers2013thumb.jpg"></a>
+<td width="10">
+      <img src="images/spacer.gif" width="10" height="1">
+    </td>
+    <td valign="top" width="100%">
+      <b>President:</b> Lisa Cherkasskey and Ryan Black<br>
+      <b>VP Marching:</b> Carl Glazer<br>
+      <b>VP Concert:</b> Rebecca Wells<br>
+      <b>VP Public Relations:</b> Jessica Phoa<br>
+      <b>Secretary:</b> Karl Destefano<br>
+      <b>Librarian:</b> Veronica Ebert
+    </td>
+  </tr>
+</table><br><br>
+
+<span class="subtitle">2012</span><br>
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+<td align="left" valign="top">
+      <a href="images/officers2012.jpg" target="_blank">
+<img class="imgcontent" src="images/officers2012thumb.jpg"></a>
+<td width="10">
+      <img src="images/spacer.gif" width="10" height="1">
+    </td>
+    <td valign="top" width="100%">
+      <b>President:</b> Carl Glazer<br>
+      <b>VP Marching:</b> Veronica Ebert<br>
+      <b>VP Concert:</b> Gwen Jones<br>
+      <b>VP Public Relations:</b> Archit Sahay<br>
+      <b>Secretary:</b> Grace Moraca<br>
+      <b>Librarian:</b> Erin Balke
+    </td>
+  </tr>
+</table><br><br>
+
 <span class="subtitle">2011</span><br>
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
