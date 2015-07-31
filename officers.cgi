@@ -3,7 +3,7 @@
 <?php $bcarray = array(array("Officers","")); ?>
 <?php require("top.inc"); ?>
 
-<p><H2>2014 Kiltie Band Officers</H2></p>
+<p><H2>2015 Kiltie Band Officers</H2></p>
 
 <p>
 <span class="subtitle">Director for Life</span><br>
@@ -19,7 +19,7 @@ Archit Amal Sahay <br></span>
 
 <p>
 <span class="subtitle">Vice President for Marching Band</span>
-<br>Stephanie O'Neill<br>
+<br>Stephanie O&#39;Neill<br>
 <i><script>emailer('soneil','andrew.cmu.edu');</script></i>
 </p>
 
