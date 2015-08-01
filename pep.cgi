@@ -2,7 +2,7 @@
 
 <?php $bcarray = array(array("Photos","")); ?>
 <?php require("top.inc"); ?>
-<head> <link rel="icon" href="http://www.contrib.andrew.cmu.edu/~kiltie/favicon.ico" />
+<head> <link rel="icon" href="favicon.ico" />
 </head>
 <H2>Pep Band</H2>
 <h3> Spring 2012 Photos (taken by Jess Phoa) </h3>

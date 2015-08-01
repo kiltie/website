@@ -3,7 +3,7 @@
 <?php require("top.inc"); ?>
 
 <head>
-<link rel="icon" href="http://www.contrib.andrew.cmu.edu/~kiltie/favicon.ico" />
+<link rel="icon" href="favicon.ico" />
 </head>
 <p><H2>Don't You Hate Pants?</H2></p>
 
@@ -49,7 +49,7 @@ March 15, 2012
 <li> Just added the Kiltie Times 2011 to the Kiltie Times page.
 <li> In the process of uploading more pictures, so check back frequently.
 <li> The Kiltie Band now has a <a href="http://www.youtube.com/user/CMUKiltieBand">YouTube channel</a>
-<li> Updated the favicon of the website. Check out our Scotty dog icon <img src="http://www.contrib.andrew.cmu.edu/~kiltie/favicon.ico"></img>
+<li> Updated the favicon of the website. Check out our Scotty dog icon <img src="favicon.ico"></img>
 </ul>
 
 September 1, 2011

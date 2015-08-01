@@ -3,7 +3,7 @@
 <?php $bcarray = array(array("Photos","")); ?>
 <?php require("top.inc"); ?>
 <head>
-<link rel="icon" href="http://www.contrib.andrew.cmu.edu/~kiltie/favicon.ico" />
+<link rel="icon" href="favicon.ico" />
 </head>
 <H2>Photos</H2>
 

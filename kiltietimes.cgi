@@ -3,7 +3,7 @@
 <?php $bcarray = array(array("The Kiltie Times","")); ?>
 <?php require("top.inc"); ?>
 <head>
-<link rel="icon" href="http://www.contrib.andrew.cmu.edu/~kiltie/favicon.ico" />
+<link rel="icon" href="favicon.ico" />
 </head>
 <p><H2>The Kiltie Times Archive</H2></p>
 

@@ -2,7 +2,7 @@
 
 <?php $bcarray = array(array("Photos","")); ?>
 <?php require("top.inc"); ?>
-<head> <link rel="icon" href="http://www.contrib.andrew.cmu.edu/~kiltie/favicon.ico" />
+<head> <link rel="icon" href="favicon.ico" />
 </head>
 <H2>Kiltie Games</H2>
 
@@ -14,12 +14,12 @@ alt="The Kilties take the field">
 
 
 <p style="text-align:center">
-<img src="images/2009marching.jpg" width="395" height="300" align="left" 
+<img src="images/2009marching.jpg" width="395" height="300" align="left"
 alt="2009 Field Show">
 </p>
 
 <p style="text-align:center">
-<img src="images/2009bow.jpg" width="395" height="300" align="middle" 
+<img src="images/2009bow.jpg" width="395" height="300" align="middle"
 alt="The Kilties Bow">
 </p>
 
