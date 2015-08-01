@@ -5,7 +5,7 @@
 
 <H2>Music</H2>
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
   <tr>
     <p>
 	<li> The Kiltie Band on <a href="http://www.youtube.com/watch?v=VlGAC3zjlFM">youtube!</a>
@@ -14,9 +14,6 @@
   <tr>
     <td valign="top">
       <img src="images/cd.jpg" class="imgcontent">
-    </td>
-    <td width="10">
-      <img src="images/spacer.gif" width="10" height="1"><br>
     </td>
     <td width="100%" valign="top">
       <b>The KILTIE BAND</b><br>

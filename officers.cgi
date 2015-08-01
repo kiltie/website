@@ -53,9 +53,9 @@ Stephanie Patterson<br>
 
 <span class="subtitle">2014</span><br>
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
   <tr>
-    <td valign="top" width="100%">
+    <td valign="middle" width="100%">
       <b>President:</b> Sarah Benjamin<br>
       <b>VP Marching:</b> Patrick White<br>
       <b>VP Concert:</b> Bradley Jamison<br>
@@ -68,9 +68,9 @@ Stephanie Patterson<br>
 
 <span class="subtitle">2013</span><br>
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
   <tr>
-    <td valign="top" width="100%">
+    <td valign="middle" width="100%">
       <b>President:</b> Lisa Cherkasskey and Ryan Black<br>
       <b>VP Marching:</b> Carl Glazer<br>
       <b>VP Concert:</b> Rebecca Wells<br>
@@ -83,9 +83,9 @@ Stephanie Patterson<br>
 
 <span class="subtitle">2012</span><br>
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
   <tr>
-    <td valign="top" width="100%">
+    <td valign="middle" width="100%">
       <b>President:</b> Carl Glazer<br>
       <b>VP Marching:</b> Veronica Ebert<br>
       <b>VP Concert:</b> Gwen Jones<br>
@@ -98,15 +98,12 @@ Stephanie Patterson<br>
 
 <span class="subtitle">2011</span><br>
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
   <tr>
 <td align="left" valign="top">
       <a href="images/officers2011.jpg" target="_blank">
 <img class="imgcontent" src="images/officers2011thumb.jpg"></a>
-<td width="10">
-      <img src="images/spacer.gif" width="10" height="1">
-    </td>
-    <td valign="top" width="100%">
+    <td valign="middle" width="100%">
       <b>President:</b> Sarah Benjamin<br>
       <b>VP Marching:</b> Patrick White<br>
       <b>VP Concert:</b> Bradley Jamison<br>
@@ -121,15 +118,12 @@ Stephanie Patterson<br>
 
 <span class="subtitle">2010</span><br>
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
   <tr>
 <td align="left" valign="top">
       <a href="images/officers2010.jpg" target="_blank">
 <img class="imgcontent" src="images/officers2010thumb.jpg"></a>
-<td width="10">
-      <img src="images/spacer.gif" width="10" height="1">
-    </td>
-    <td valign="top" width="100%">
+    <td valign="middle" width="100%">
       <b>President:</b> Brian Manning<br>
       <b>VP Marching:</b> Ben Matzke<br>
       <b>VP Concert:</b> Sarah Benjamin<br>
@@ -142,15 +136,12 @@ Stephanie Patterson<br>
 
 
 <span class="subtitle">2009</span><br>
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
   <tr>
 <td align="left" valign="top">
       <a href="images/officers2009.jpg" target="_blank">
 <img class="imgcontent" src="images/officers2009thumb.jpg"></a>
-<td width="10">
-      <img src="images/spacer.gif" width="10" height="1">
-    </td>
-    <td valign="top" width="100%">
+    <td valign="middle" width="100%">
       <b>President:</b> David Kinskey-Lebeda<br>
       <b>VP Marching:</b> Dina Machin<br>
       <b>VP Concert:</b> Brian Gaudio<br>
@@ -162,17 +153,13 @@ Stephanie Patterson<br>
 </table><br><br>
 
 <span class="subtitle">2008</span><br>
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
   <tr>
 <td align="left" valign="top">
       <a href="images/officers2008.jpg" target="_blank">
 <img class="imgcontent" src="images/officers2008thumb.jpg"></a>
     </td>
-
-  <td width="10">
-      <img src="images/spacer.gif" width="10" height="1">
-    </td>
-    <td valign="top" width="100%">
+    <td valign="middle" width="100%">
       <b>President:</b> Erica Dorfman<br>
       <b>VP Marching:</b> Jeffrey Panza<br>
       <b>VP Concert:</b> Elyse Coletta & Dina Machin<br>
@@ -185,15 +172,12 @@ Stephanie Patterson<br>
 
 
 <span class="subtitle">2007</span><br>
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
   <tr>
     <td align="left" valign="top">
       <a href="images/officers2007.jpg" target="_blank"><img class="imgcontent" src="images/officers2007thumb.jpg"></a>
     </td>
-    <td width="10">
-      <img src="images/spacer.gif" width="10" height="1">
-    </td>
-    <td valign="top" width="100%">
+    <td valign="middle" width="100%">
       <b>President:</b> Laurel Farmer<br>
       <b>VP Marching:</b> Sean Gilroy<br>
       <b>VP Concert:</b> Erica Dorfman<br>
@@ -205,15 +189,12 @@ Stephanie Patterson<br>
 </table><br><br>
 
 <span class="subtitle">2006</span><br>
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
   <tr>
     <td align="left" valign="top">
       <a href="images/officers2006.jpg" target="_blank"><img class="imgcontent" src="images/officers2006thumb.jpg"></a>
     </td>
-    <td width="10">
-      <img src="images/spacer.gif" width="10" height="1">
-    </td>
-    <td valign="top" width="100%">
+    <td valign="middle" width="100%">
       <b>President:</b> Katie Strausser<br>
       <b>VPs Marching:</b> Laurel Farmer, Sean Gilroy<br>
       <b>VP Concert:</b> Caitlin Weigand<br>
@@ -225,15 +206,12 @@ Stephanie Patterson<br>
 </table><br><br>
 
 <span class="subtitle">2005</span><br>
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<table width="100%" border="0" cellpadding="5" cellspacing="0">
   <tr>
     <td align="left" valign="top">
       <a href="images/officers2005.jpg" target="_blank"><img class="imgcontent" src="images/officers2005thumb.jpg"></a>
     </td>
-    <td width="10">
-      <img src="images/spacer.gif" width="10" height="1">
-    </td>
-    <td valign="top" width="100%">
+    <td valign="middle" width="100%">
       <b>President:</b> Dave Rollinson<br>
       <b>VP Marching:</b> Jim Puls<br>
       <b>VP Concert:</b> Doug Applegate<br>
