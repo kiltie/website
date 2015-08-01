@@ -56,12 +56,12 @@ Stephanie Patterson<br>
 <table width="100%" border="0" cellpadding="5" cellspacing="0">
   <tr>
     <td valign="middle" width="100%">
-      <b>President:</b> Sarah Benjamin<br>
-      <b>VP Marching:</b> Patrick White<br>
-      <b>VP Concert:</b> Bradley Jamison<br>
-      <b>VP Public Relations:</b> Daniel Becerra<br>
-      <b>Secretary:</b> Dylan Mori<br>
-      <b>Librarian:</b> Marrina Parra
+      <b>President:</b> Carl Glazer<br>
+      <b>VP Marching:</b> Veronica Ebert<br>
+      <b>VP Concert:</b> Gwen Jones<br>
+      <b>VP Public Relations:</b> Archit Sahay<br>
+      <b>Secretary:</b> Grace Moraca<br>
+      <b>Librarian:</b> Erin Balke
     </td>
   </tr>
 </table><br><br>
@@ -86,12 +86,12 @@ Stephanie Patterson<br>
 <table width="100%" border="0" cellpadding="5" cellspacing="0">
   <tr>
     <td valign="middle" width="100%">
-      <b>President:</b> Carl Glazer<br>
-      <b>VP Marching:</b> Veronica Ebert<br>
-      <b>VP Concert:</b> Gwen Jones<br>
-      <b>VP Public Relations:</b> Archit Sahay<br>
-      <b>Secretary:</b> Grace Moraca<br>
-      <b>Librarian:</b> Erin Balke
+      <b>President:</b> Dylan Mori<br>
+      <b>VP Marching:</b> Gerry Carlson<br>
+      <b>VP Concert:</b> Marina Parra<br>
+      <b>VP Public Relations:</b> Karina Chow<br>
+      <b>Secretary:</b> Rebecca Wells<br>
+      <b>Librarian:</b> Lias Cherkasskey
     </td>
   </tr>
 </table><br><br>
