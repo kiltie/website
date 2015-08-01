@@ -19,7 +19,7 @@ Archit Amal Sahay <br></span>
 
 <p>
 <span class="subtitle">Vice President for Marching Band</span>
-<br>Stephanie O&#39;Neill<br>
+<br>Stephanie O'Neill<br>
 <i><script>emailer('soneil','andrew.cmu.edu');</script></i>
 </p>
 
@@ -55,12 +55,6 @@ Stephanie Patterson<br>
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
-<td align="left" valign="top">
-      <a href="images/officers2014.jpg" target="_blank">
-<img class="imgcontent" src="images/officers2014thumb.jpg"></a>
-<td width="10">
-      <img src="images/spacer.gif" width="10" height="1">
-    </td>
     <td valign="top" width="100%">
       <b>President:</b> Sarah Benjamin<br>
       <b>VP Marching:</b> Patrick White<br>
@@ -76,12 +70,6 @@ Stephanie Patterson<br>
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
-<td align="left" valign="top">
-      <a href="images/officers2013.jpg" target="_blank">
-<img class="imgcontent" src="images/officers2013thumb.jpg"></a>
-<td width="10">
-      <img src="images/spacer.gif" width="10" height="1">
-    </td>
     <td valign="top" width="100%">
       <b>President:</b> Lisa Cherkasskey and Ryan Black<br>
       <b>VP Marching:</b> Carl Glazer<br>
@@ -97,12 +85,6 @@ Stephanie Patterson<br>
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
-<td align="left" valign="top">
-      <a href="images/officers2012.jpg" target="_blank">
-<img class="imgcontent" src="images/officers2012thumb.jpg"></a>
-<td width="10">
-      <img src="images/spacer.gif" width="10" height="1">
-    </td>
     <td valign="top" width="100%">
       <b>President:</b> Carl Glazer<br>
       <b>VP Marching:</b> Veronica Ebert<br>
