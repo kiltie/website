@@ -12,7 +12,7 @@ src="images/cheer1.jpg">
 </a>
 
 <p>
-The Kiltie Band has a long tradition of organized cheering in the stands. Every year, the band has a cheermaster, selected from the Trombone section. The cheermaster's job is to select and organize 
+The Kiltie Band has a long tradition of organized cheering in the stands. Every year, the band has a cheermaster, selected from the Trombone section. The cheermaster's job is to select and organize
 cheers/heckles from the Kiltie Band, drawing from the resource of the hidden and ever secret Cheermaster's Book.
 </p>
 
@@ -142,13 +142,13 @@ src="images/anticheera.jpg">
 </a>
 
 <p>
-The Kiltie Band also has a short tradition of organized anti-cheering in the stands. For every year the band has a cheermaster selected from the Trombone section, the band has an anti-cheermaster 
-selected from a different section of the band. The anti-cheermaster's job is to select and organize cheers/heckles from the Kiltie Band, drawing from the resource of the widely-published and ever 
+The Kiltie Band also has a short tradition of organized anti-cheering in the stands. For every year the band has a cheermaster selected from the Trombone section, the band has an anti-cheermaster
+selected from a different section of the band. The anti-cheermaster's job is to select and organize cheers/heckles from the Kiltie Band, drawing from the resource of the widely-published and ever
 notorious Anti-Cheermaster's Notebook.
 </p>
 
 <table width="100%" border="0" cellpadding="1" cellspacing="0">
- 
+
  <tr>
     <td width="50">2013</td>
     <td>Daniel Tabrizi</td>
@@ -172,7 +172,7 @@ notorious Anti-Cheermaster's Notebook.
 <tr>
     <td width="50">2009</td>
     <td>Dina Machin</td>
-  </tr> 
+  </tr>
 <tr>
     <td width="50">2008</td>
     <td>Dina Machin</td>

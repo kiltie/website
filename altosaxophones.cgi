@@ -26,7 +26,7 @@ src="images/sax2010a.jpg">
       <b>Major</b>
     </td>
   </tr>
-<tr>  
+<tr>
     <td>Nancy Brown</td>
     <td>2012</td>
     <td>History & Policy</td>
@@ -36,17 +36,17 @@ src="images/sax2010a.jpg">
     <td>2010</td>
     <td>Mechanical Engineering</td>
   </tr>
-<tr> 
+<tr>
     <td>Brain Manning</td>
     <td>2011</td>
     <td>Mechanical Engineering</td>
   </tr>
-<tr>   
+<tr>
     <td>Nicolas Paris</td>
     <td>2012</td>
-    <td>Electrical & Computer Engineering</td>   
+    <td>Electrical & Computer Engineering</td>
   </tr>
-<tr>   
+<tr>
     <td>Tessa Park</td>
     <td>2010</td>
     <td>Art</td>
@@ -56,23 +56,23 @@ src="images/sax2010a.jpg">
     <td>2012</td>
     <td> </td>
   </tr>
-<tr> 
+<tr>
     <td>David Ryoo</td>
     <td>2011</td>
     <td>Chemical Engineering</td>
   </tr>
-<tr>   
+<tr>
     <td>Andrew Yeager</td>
     <td>2010</td>
     <td>Computer Science/Physics</td>
   </tr>
 <tr>
     <td>Brian Zakrzewski</td>
-    <td>2012</td>    
+    <td>2012</td>
     <td>Physics</td>
   </tr>
 <tr>
-    <td>Martyn Romanko</td>  
+    <td>Martyn Romanko</td>
     <td>2011</td>
     <td>Electrical & Computer Engineering</td>
   </tr>

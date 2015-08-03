@@ -29,7 +29,7 @@
     <td>2012</td>
     <td>Biology</td>
   </tr>
-  <tr> 
+  <tr>
     <td>Jason Wiese</td>
     <td>Graduate Student</td>
     <td>Human-Computer Interaction</td>

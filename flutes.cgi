@@ -8,7 +8,7 @@
 <span class="subtitle">The 2010-2011 Flute Section</span><p>
 
 
-<a href="images/flutes2010.jpg" target="_blank"><img class="imgcontent" 
+<a href="images/flutes2010.jpg" target="_blank"><img class="imgcontent"
 src="images/flutes2010a.jpg">
 </a>
 

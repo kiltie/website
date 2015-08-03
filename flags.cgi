@@ -34,16 +34,16 @@ src="images/flags2010a.jpg">
     <td>Aya Chaoka</td>
     <td>2010</td>
     <td>Information Systems & Statistics</td>
-  </tr> 
+  </tr>
   <tr>
     <td>Ryan Handerhan</td>
-    <td>2011</td>   
+    <td>2011</td>
     <td>Information Systems & Japanese</td>
-  </tr> 
+  </tr>
  <tr>
     <td>Nicole Layfield</td>
     <td>2012</td>
-    <td>&nbsp;</td> 
+    <td>&nbsp;</td>
   </tr>
   </tr>
   <tr>

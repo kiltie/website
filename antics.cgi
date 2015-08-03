@@ -6,14 +6,14 @@
 <H2>Kiltie Antics</H2>
 
 <p style="text-align:center">
-<img src="images/relay2011.jpg" width="525" height="300" alt="Kilties 
+<img src="images/relay2011.jpg" width="525" height="300" alt="Kilties
 at Relay for Life 2011">
 </p>
 
 The Kilties entertain at Relay for Life!
 
 <p style="text-align:center">
-<img src="images/FENCE08.JPG" width="525" height="300" alt="Picture of the 
+<img src="images/FENCE08.JPG" width="525" height="300" alt="Picture of the
 Fence">
 </p>
 

@@ -52,13 +52,13 @@ src="images/mello2010a.jpg">
   </tr>
   <tr>
     <td>Jinyu Liu</td>
-    <td>2012</td>   
+    <td>2012</td>
     <td>Computer Science</td>
-  </tr>  
+  </tr>
   <tr>
-    <td>Chris Mar</td>               
-    <td>2010</td>    
-    <td>Electrical & Computer Engineering</td>                      
+    <td>Chris Mar</td>
+    <td>2010</td>
+    <td>Electrical & Computer Engineering</td>
   </tr>
   <tr>
     <td>Nathan Mickulicz</td>

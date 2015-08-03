@@ -8,7 +8,7 @@
 <span class="subtitle">The 2010-2011 Clarinet Section</span><p>
 
 
-<a href="images/clar2010.jpg" target="_blank"><img 
+<a href="images/clar2010.jpg" target="_blank"><img
 class="imgcontent"
 src="images/clar2010a.jpg">
 </a>
@@ -35,15 +35,15 @@ src="images/clar2010a.jpg">
   </tr>
   <tr>
     <td>Dan Becerra</td>
-    <td>2012</td> 
+    <td>2012</td>
     <td>Materials Science Engineering/Engineering & Public Policy</td>
-  </tr> 
- <tr>  
+  </tr>
+ <tr>
     <td>Sarah Benjamin</td>
     <td>2012</td>
     <td>Physics & Economics</td>
   </tr>
-  <tr> 
+  <tr>
     <td>Elizabeth Christina</td>
     <td></td>
     <td></td>
@@ -53,37 +53,37 @@ src="images/clar2010a.jpg">
     <td>2009</td>
     <td>Chemical Engineering/Engineering & Public Policy</td>
   </tr>
-  <tr> 
+  <tr>
     <td>Jason Fishel</td>
     <td>2010</td>
     <td>Chemistry</td>
   </tr>
-  <tr> 
+  <tr>
     <td>Micheal McCortney</td>
     <td> </td>
     <td> </td>
   </tr>
-  <tr> 
+  <tr>
     <td>Dina Machin</td>
     <td>2010</td>
     <td>Chemical Engineering/Engineering Public Policy</td>
   </tr>
-  <tr> 
+  <tr>
     <td>Laura Meng</td>
     <td>2010</td>
     <td>Computer Science</td>
   </tr>
-  <tr>   
-    <td>Grace Monach</td>   
-    <td>2012</td>    
+  <tr>
+    <td>Grace Monach</td>
+    <td>2012</td>
     <td>Computer Science</td>
   </tr>
-  <tr> 
+  <tr>
     <td>Nicole Navolio</td>
     <td>2011</td>
     <td>Chemical Engineering</td>
   </tr>
-  <tr> 
+  <tr>
     <td>Daniel Pehush</td>
     <td>2010</td>
     <td>Electrical & Computer Engineering</td>
@@ -98,14 +98,14 @@ src="images/clar2010a.jpg">
     <td>2009</td>
     <td>Computer Science</td>
   </tr>
-  <tr> 
+  <tr>
     <td>Sara Stanford</td>
     <td>2012</td>
     <td>Chemistry</td>
   </tr>
   <tr>
-    <td>Margaret Cruickshanks</td> 
-    <td>2012</td> 
+    <td>Margaret Cruickshanks</td>
+    <td>2012</td>
     <td>Math</td>
   </tr>
 </table><p>

@@ -29,12 +29,12 @@
     <td>2012</td>
     <td>Mechanical Engineering</td>
   </tr>
- <tr> 
+ <tr>
     <td>Ben Gemperline</td>
     <td></td>
     <td></td>
   </tr>
-   <tr> 
+   <tr>
     <td>Nick Harper</td>
     <td>2011</td>
     <td></td>
