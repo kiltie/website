@@ -8,6 +8,9 @@
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td valign="top" width="100%">
+      <b>78-79:</b> Phil Nickerson<br>
+      <b>79-80:</b> Christine Kretz<br>
+      <b>80-81:</b> Christine Kretz<br>
       <b>81-82:</b> Chris Barret<br>
       <b>82-83:</b> Karen Thorne<br>
       <b>83-84:</b> Tom Koehler<br>
